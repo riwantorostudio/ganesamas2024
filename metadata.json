@@ -1,0 +1,7 @@
+{
+  "name": "Ganesa Mas - Katalog Buku & Alat Tulis",
+  "description": "Template katalog buku dan alat tulis premium bertema Ganesa Mas dengan integrasi pembayaran dan optimasi SEO.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
