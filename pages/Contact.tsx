@@ -73,7 +73,7 @@ const Contact: React.FC = () => {
                         </div>
                         <div>
                             <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Email Resmi</p>
-                            <p className="font-bold text-slate-900 group-hover:text-[#2D5A27] transition-colors">info@ganesamas.co.id</p>
+                            <p className="font-bold text-slate-900 group-hover:text-[#2D5A27] transition-colors">info@ganesamas.com</p>
                         </div>
                     </a>
 
@@ -83,17 +83,17 @@ const Contact: React.FC = () => {
                         </div>
                         <div>
                             <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Telepon Kantor</p>
-                            <p className="font-bold text-slate-900 group-hover:text-[#2D5A27] transition-colors">(0361) 123-4567</p>
+                            <p className="font-bold text-slate-900 group-hover:text-[#2D5A27] transition-colors">+62 851-5651-0756</p>
                         </div>
                     </a>
 
-                    <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-5 group">
+                    <a href="https://wa.me/6285156510756" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-5 group">
                         <div className="p-4 bg-emerald-50 text-green-600 rounded-2xl group-hover:bg-green-600 group-hover:text-white transition-all shadow-sm">
                             <MessageCircle size={24} />
                         </div>
                         <div>
                             <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">WhatsApp Support</p>
-                            <p className="font-bold text-slate-900 group-hover:text-green-600 transition-colors">+62 812-3456-7890</p>
+                            <p className="font-bold text-slate-900 group-hover:text-green-600 transition-colors">+62 851-5651-0756</p>
                         </div>
                     </a>
                 </div>
@@ -119,8 +119,8 @@ const Contact: React.FC = () => {
                         <div>
                             <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1">Kantor Pusat</p>
                             <p className="font-bold text-slate-900 leading-relaxed">
-                                Jl. Ganesa No. 101, Pusat Literasi<br />
-                                Denpasar, Bali 80234, Indonesia
+                                Jl. Ken Arok Gg. Manik Mas, No. 3<br /> Peguyangan Denpasar Utara<br />Kota Denpasar Bali
+                                
                             </p>
                         </div>
                     </div>
