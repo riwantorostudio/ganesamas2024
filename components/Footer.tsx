@@ -74,12 +74,12 @@ const Footer: React.FC = () => {
               <li className="flex items-start space-x-3">
                 <MapPin size={16} className="text-[#F58220] mt-0.5 flex-shrink-0" />
                 <p className="text-xs font-bold text-slate-500 leading-relaxed">
-                  Jl. Ken Arok Gg. Manik Mas, No. 3, Peguyangan Denpasar, Utara, Kota Denpasar Bali
+                  Jl. Ken Arok Gg. Manik Mas, No. 3, Peguyangan Denpasar Utara, Kota Denpasar Bali
                 </p>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone size={16} className="text-[#F58220] flex-shrink-0" />
-                <p className="text-xs font-bold text-slate-500">0851-5651-0756</p>
+                <p className="text-xs font-bold text-slate-500">+62 851-5651-0756</p>
               </li>
             </ul>
           </div>
