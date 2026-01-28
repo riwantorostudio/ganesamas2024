@@ -53,11 +53,11 @@
                 <ul class="space-y-4">
                     <li class="flex items-start space-x-3">
                         <i data-lucide="map-pin" class="w-4 h-4 text-[#F58220] mt-0.5"></i>
-                        <p class="text-xs font-bold text-slate-500 leading-relaxed">Jl. Ganesa No. 101, Denpasar, Bali 80234</p>
+                        <p class="text-xs font-bold text-slate-500 leading-relaxed">Jl. Ken Arok Gg. Manik Mas No. 3, Peguyangan, Denpasar Utara, Kota Denpasar Bali</p>
                     </li>
                     <li class="flex items-center space-x-3">
                         <i data-lucide="phone" class="w-4 h-4 text-[#F58220]"></i>
-                        <p class="text-xs font-bold text-slate-500">(0361) 123-4567</p>
+                        <p class="text-xs font-bold text-slate-500">085156510756</p>
                     </li>
                 </ul>
             </div>
